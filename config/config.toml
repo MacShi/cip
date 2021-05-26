@@ -1,0 +1,7 @@
+[api]
+ipUrl = "https://restapi.amap.com/v3/ip"
+ipUrlKey = ""
+
+[listen]
+hostAddress = "127.0.0.1"
+port = "8086"
